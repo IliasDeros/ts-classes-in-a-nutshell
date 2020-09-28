@@ -12,6 +12,6 @@ One of many tutorial repositories on OOP. Includes:
 
 ## Getting Started
 
-1. Download the code to your machine - `git clone git@github.com/IliasDeros/ts-classes-nutshell`
+1. Download the code to your machine - `git clone git@github.com:IliasDeros/ts-classes-in-a-nutshell.git`
 2. Install typescript compiler - `npm install`
 3. Compile & run the javascript - `npm run test`
